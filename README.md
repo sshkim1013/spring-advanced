@@ -1,6 +1,6 @@
 # SPRING ADVANCED
 
-내일배움캠프 Spring_5기 트랙의 [ 스프링 입문 주차 - 일정 관리 앱 Develop ] 과제에 대한 README.md 문서입니다.
+내일배움캠프 Spring_5기 트랙의 **[ 스프링 심화 주차 과제 ]** 에 대한 README.md 문서입니다.
 
 -----
 
